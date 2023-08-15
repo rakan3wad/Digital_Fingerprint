@@ -15,7 +15,8 @@ logging.basicConfig(level=logging.INFO)
 
 app = Flask(__name__)
 app.secret_key = os.urandom(24)
-#
+
+
 # auth_base_url = 'https://accounts.salla.sa/oauth2/authorize'
 # token_url = 'https://accounts.salla.sa/oauth2/token'
 # redirect_uri = 'https://saudi-bot.com/'
