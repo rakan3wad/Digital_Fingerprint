@@ -1,4 +1,4 @@
-
+set -o errexit
 
 /opt/render/project/src/.venv/bin/python -m pip install --upgrade pip
 
