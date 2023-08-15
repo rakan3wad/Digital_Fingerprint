@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "salla-watermarkapp",
+  "private_key_id": "5a84f25edd1f6697f35b8291df668e447a7690a8",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCriXLnT7qLa9Ta\nfb60agX6N3WoAZ1NL/XoqieQahVfCPT1MY3IYEIzb1ZiGVX3I6j45nW1v0BpkHFA\n168MAcvI7XKy+Xx7eP3c9FUoXMbkOx5DccGXwQ8b2wXqXYODayhX3NtoI1osqla2\nGS2RS4qjXurZuA1KvI7eNVh60L9vmIWUHB1PEFtyBxZKtBIGn9gQXqFGovESWHbv\nLSM/PACFwFFyO+d6FsCrf/2c/dMABnbziYLVOYt94RrztkpeDeLBbDUlF/tXilSx\nAU8hiPNtdOgazbgyTUYj+wg+q+q1tnOWQjPPxElp7u9e7Cv4NmM0KVl/XqMYSDUQ\n93zWchDJAgMBAAECggEABWJOCfaVq1SaHLV/q9f8Egt1lO1gC5Eqzb+xeDXsL8xv\nK9b/VT+4NDcVZgTXjuc+oXlSTn8PPYD8HQXoB59yzv6s7/MmthVpGmtM1PR8haNZ\nYtKKOgIkQEKSn/WJcDGH1aIn/M/HP8mk6RhHNt1BH7mV83l0aVkbvtu7yDcPGyiI\nOSmyHK0OfAPy54tpUpSMRv8tW/iKwoSM5KVOFw2ZBjhVu1MryQyGz+wvAZbYup4A\nzl9Kkjl5loeDWynBKW7Pyoq9C1g2p1HzXWNuJPHtd6vhsAUuDEBiGc6Q+Noxg3Yw\niLjhe6ljswiB9YzFgOR+sBRExAs0AVG2hVm/8bY6tQKBgQDSDVR+PIp7DZ7Tw0TS\nwGMTMZwf5fZZ28gxR8Ajuqx22+v9Mmv5X1TYJ21uv0w5B93RPL+wqut5LXgwqPpT\nuNNK3EW+JGNfHeOLdzQTGqfLf5depRLxUv7JsTNPM2X4YbKcYIswXzMk5KSPZa2z\n+qEqtAlrhUFeI4Fv8weT3FwtRwKBgQDRD1CcKeYu6cRdeVUBDIHbs6R3xrztc6Gk\n9e5Wd0h3JH7V+ML5J0nUDLj18QCW7L4QEx7UV1nq/IQPa1PBewrmYYmUvJj7XYsS\nfIi4D1VYBJjLTsrSpEMd9v2jdihn2tWrSfL5anwQrhXbTKk+KWP9UFcU5FbCtpXB\nYBzNCr2ZbwKBgQC9Hp9aYSvVivfbdc57ahhJ6brFxYi+cvGV3SITiTlKcsvQ1hr9\nFWYQj78pnTcFih2fC/ETIXCNU/EI7rsjsh8bIaPxhFWsB/8dTKAoKzG0ORaSclHR\n0YXxFog54O8IaP4laY8oaC5mIy4+pa91gkylZB+vHPUzywf5QXkrGZYsdQKBgQDI\ne2dSWtvjIUquWSyrVNMzXZLbSjrje4AIMc/eG4Xiu5zmlShkxsiGEa1OLU/jbCTY\nRX3LI/mW35HFN6eaY+SQCflmKXaLl6lGkSaLXCj7v2zHi0f1uJCkq7eQij81WSaO\nnNvlU7imRkuvglTKx+abhe/8mPyavX3fc8wq1aH9AQKBgADo22dFa0+H2D/O/EpE\n3XEoNxLLMIZNrk5fw7eZPL6R7akkLtxczgqm1DyTR+hKXLTIODApVGOy2yx+kzqM\nFXyCsb5Dlsa7+WTyWCFatXBGSxXdG/aPQ95JXIjf3Pi70zD2KmJMu65cAvSi2dOU\n3S+alQ2S29DX1ZxWeMNorOe0\n-----END PRIVATE KEY-----\n",
+  "client_email": "salla-watermark-app@salla-watermarkapp.iam.gserviceaccount.com",
+  "client_id": "117210132910386486215",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/salla-watermark-app%40salla-watermarkapp.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
